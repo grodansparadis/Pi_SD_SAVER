@@ -4,8 +4,7 @@ The Raspberry PI will sometimes corrupt it's SD card when there is a power failu
 Against all appearances, using a meager Attiny85 to save a mighty Raspberry PI doesn't look like an overkill, well frankly it is !  Might as well do something else with it... consequently PI_SD_SAVER also provides a single push button which allows to make an orderly Power-off/Power-on of the PI.   
   
   
-Inspired by :<a href="https://github.com/NeonHorizon/lipopi"> lipopi</a>  
-             <a href="https://github.com/craic/pi_power"> pi_power</a>  
+Inspired by :<a href="https://github.com/NeonHorizon/lipopi"> lipopi</a> and  <a href="https://github.com/craic/pi_power"> pi_power</a>  
              
              many thanks !
 
