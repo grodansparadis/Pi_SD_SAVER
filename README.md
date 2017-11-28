@@ -5,7 +5,8 @@ Against all appearances, using a meager Attiny85 to save a mighty Raspberry PI d
   
   
 Inspired by :<a href="https://github.com/NeonHorizon/lipopi"> lipopi</a>  
-             <a href="https://github.com/craic/pi_power...  
+             <a href="https://github.com/craic/pi_power">  
+             ...  
              
              many thanks !
 
