@@ -12,5 +12,7 @@ At first glance, if using a "meager" Attiny85 to correct a "mighty" Raspberry PI
   
 Inspired by :<a href="https://github.com/NeonHorizon/lipopi"> lipopi</a> and  <a href="https://github.com/craic/pi_power"> pi_power</a>   
   
-many thanks !
+many thanks !  
+
+* * *
 
