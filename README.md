@@ -28,7 +28,10 @@ many thanks !
 * an Attiny85  
 * an arduino IDE with the Attiny85 library installed, see: <a href="http://highlowtech.org/?p=1695"> High-Low tech</a> or <a href="https://github.com/damellis/attiny"> Github-Damellis/attiny</a>  
 * an arduino UNO or equivalent as a programmer, see: <a href="http://highlowtech.org/?p=1706"> High-Low tech<a/> Note: the arduino UNO as an ISP is by far the simplest  
+* a small protoboard, some resistors, diodes and led, I'm blue !  
+* a small perf single side board, if you have any soldering skills, get an 8 pins socket for the chip then. I used a three holes pads perf board see: <a href="https://www.digikey.com/product-detail/en/chip-quik-inc/SBB1605-1/SBB1605-1-ND/5978253"> digikey</a>  
   
+ 
   
 
 
