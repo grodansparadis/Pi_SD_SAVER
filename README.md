@@ -27,7 +27,8 @@ many thanks !
 * A Raspberry Pi (any model - see notes about the Raspbery Pi 3) and an Adafruit PowerBoost 1000C Charger  
 * an Attiny85  
 * an arduino IDE with the Attiny85 library installed, see: <a href="http://highlowtech.org/?p=1695"> High-Low tech</a> or <a href="https://github.com/damellis/attiny"> Github-Damellis/attiny</a>  
-* an arduino UNO or equivalent as a programmer, see: <a href="http://highlowtech.org/?p=1706"> High-Low tech<a/>  
+* an arduino UNO or equivalent as a programmer, see: <a href="http://highlowtech.org/?p=1706"> High-Low tech<a/> the arduino as an ISP is by far the simplest  
+  
   
 
 
