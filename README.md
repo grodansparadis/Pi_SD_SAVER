@@ -22,7 +22,13 @@ many thanks !
 
 * * *  
   
-## requierement  
+### Requirements:  
   
+* A Raspberry Pi (any model - see notes about the Raspbery Pi 3) and an Adafruit PowerBoost 1000C Charger  
+* an Attiny85  
+* an arduino IDE with the Attiny85 library installed, see: <https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwja95L0zOTXAhUK74MKHWu8CDUQFghhMAg&url=https%3A%2F%2Fgithub.com%2Fdamellis%2Fattiny&usg=AOvVaw1qKS9_GT57_0IKVSfc5Ivs>  
+*  hem hem  
+
+
   
 
