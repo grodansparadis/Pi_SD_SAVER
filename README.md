@@ -30,7 +30,7 @@ many thanks !
 * an arduino UNO or equivalent as a programmer, see: <a href="http://highlowtech.org/?p=1706"> High-Low tech<a/> Note: the arduino UNO as an ISP is by far the simplest  
 * a small protoboard, some resistors, diodes and led, I'm blue ! The circuit is not critical and will work fine on a protoboard  
 * a small perf single side board, if you have any soldering skills, get an 8 pins socket for the chip then. I used a frendlier three holes pads perf board with bus traces, see: <a href="https://www.digikey.com/product-detail/en/chip-quik-inc/SBB1605-1/SBB1605-1-ND/5978253"> digikey</a>  
-  
+* having fun ! 
  
   
 
