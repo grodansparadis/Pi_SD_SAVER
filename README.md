@@ -1,4 +1,7 @@
-# Pi_SD_SAVER
+# Pi_SD_SAVER  
+  
+###Description:  
+    
 The Raspberry PI will sometimes corrupt it's SD card when there is a power failure. The main purpose of the PI_SD_SAVER is to  prevent this by combining:  
 
 * the Adafruit 1000C power booster which allows a smooth transition to a backup Lion battery, with an 
