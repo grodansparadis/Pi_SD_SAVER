@@ -29,7 +29,7 @@ many thanks !
 * a <a href="https://www.sparkfun.com/products/13813">Lion battery<a/>, I'm using a 1000 mAh from Costco.
 * an <a href="http://www.microchip.com/wwwproducts/en/ATtiny85">Attiny85</a>  
 * the <a href="https://www.arduino.cc/en/Main/Software">arduino IDE<a/> with the Attiny85 library installed, see: <a href="http://highlowtech.org/?p=1695"> High-Low tech</a> or <a href="https://github.com/damellis/attiny"> Github-Damellis/attiny</a>  
-* an arduino UNO or equivalent as a programmer, see: <a href="http://highlowtech.org/?p=1706"> High-Low tech<a/> Note: the arduino UNO as an ISP is by far the simplest  
+* an arduino UNO or equivalent as a <a href="http://arduinolearning.com/code/programming-attiny85-arduino-uno.php">programmer</a>, see: <a href="http://highlowtech.org/?p=1706"> High-Low tech<a/> Note: the arduino UNO as an ISP is by far the simplest  
 * a small protoboard, some resistors, diodes and leds, I'm blue ! The circuit is not critical and will work fine on a protoboard  
 * a small perf. single side board, if you feel like soldering, get an 8 pins socket for the chip then. I use the friendlier <a href="https://www.digikey.com/product-detail/en/chip-quik-inc/SBB1605-1/SBB1605-1-ND/5978253"> three holes pads perf. board with bus traces</a>  
 * having fun ! 
