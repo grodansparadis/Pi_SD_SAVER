@@ -4,16 +4,16 @@
     
 The Raspberry PI will sometimes corrupt it's SD card when there is a power failure. The main purpose of the PI_SD_SAVER is to  prevent this by combining:  
 
-* the Adafruit 1000C power booster which allows a smooth transition to a backup Lion battery, with an 
+* the Adafruit 1000C power booster which allows a smooth transition to a backup Lion battery 
 
 * atmel(microchip) Attiny85 which monitors the battery voltage level.  
 
 ### How it works:  
   
   
-When this level gets too low, because the battery is either normally discharging or not properly charging, the Attiny85 will ask the PI to perform a safe system shutdown and once done the Attiny85 will tell the 1000C to cut the power to the PI. If an external power USB voltage is present at that time, the Attinu85 will wait for the battery to be replaced but if this power USB voltage is not present, the Attiny85 itself will be shut down. The battery drainage in that state is about 25 uAmp, it would then take about 2.3 years to totally discharge an half full 1000 mah Lion battery... in other words, time enough to do something about it ...  
+When the battery voltage level gets too low, because the battery is either normally discharging or not properly charging, the Attiny85 will ask the PI to perform a safe system shutdown and once done the Attiny85 will tell the 1000C to cut the power to the PI. If the external USB power is present at that time, the Attinu85 will enter a state where it will wait for the battery to be replaced but if this USB power is not present, the Attiny85 itself will be shut down. The battery drainage in that state is about 25 uAmp, it would then take about 2.3 years to totally discharge an half full 1000 mah Lion battery... in other words, time enough to do something about it ...  
 
-At first glance, if using a "meager" Attiny85 to correct a "mighty" Raspberry PI's flaw doesn't look like an overkill, then, stand corrected because frankly it is ! This little critter can do a lot more, like most of the things the Arduino does... same genes ! So we might as well do something else with it... consequently PI_SD_SAVER also provides a single push button which allows convenient and safe poweroffs and powerdowns of the PI.   
+It might not look like an overkill to use a "meager" Attiny85 to correct a "mighty" Raspberry PI's flaw, but it is ! This little critter can do a lot more, like most of the things the Arduino does... same genes ! So we might as well do something else with it... consequently PI_SD_SAVER also provides a single push button which allows convenient and safe poweroffs and powerdowns of the PI.   
   
   
 Inspired by :<a href="https://github.com/NeonHorizon/lipopi"> lipopi</a> and  <a href="https://github.com/craic/pi_power"> pi_power</a>   
@@ -24,7 +24,9 @@ many thanks !
   
 ### Requirements:  
   
-* A Raspberry Pi (any model - see notes about the Raspbery Pi 3) and an Adafruit PowerBoost 1000C Charger  
+* a Raspberry Pi (any model - see notes about the Raspbery Pi 3)  
+* an Adafruit PowerBoost 1000C Charger  
+* a Lion battery, I'm using a 1000 mAh from Costco.
 * an Attiny85  
 * an arduino IDE with the Attiny85 library installed, see: <a href="http://highlowtech.org/?p=1695"> High-Low tech</a> or <a href="https://github.com/damellis/attiny"> Github-Damellis/attiny</a>  
 * an arduino UNO or equivalent as a programmer, see: <a href="http://highlowtech.org/?p=1706"> High-Low tech<a/> Note: the arduino UNO as an ISP is by far the simplest  
