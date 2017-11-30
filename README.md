@@ -6,7 +6,7 @@ The Raspberry PI will sometimes corrupt it's SD card when there is a power failu
 
 * the Adafruit 1000C power booster which allows a smooth transition to a backup Lion battery 
 
-* atmel(microchip) Attiny85 which monitors the battery voltage level.  
+* an atmel(microchip) Attiny85 which monitors the battery voltage level.  
 
 ### How it works:  
   
