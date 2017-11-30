@@ -15,7 +15,7 @@ The most and only important parameter we have to maintain in order to achieve ou
   
 When the battery voltage level gets too low, because the battery is either normally discharging or not properly charging, the Attiny85 will ask the PI to perform a safe system shutdown and once done the Attiny85 will tell the 1000C to cut the power to the PI. If the external USB power is present at that time, the Attiny85 will enter a state where it will wait for the battery to be replaced but if this USB power is not present, the Attiny85 itself will be shut down. The battery drain in that state is about 25 uAmp, it would then take about 2.3 years to totally discharge an half full 1000 mah Lion battery... in other words, time enough to do something about it ...  
 
-It might not look like an overkill to use a "meager" Attiny85 to correct a "mighty" Raspberry PI's flaw, but it is ! This little critter can do a lot more, like most of the things the Arduino does... same genes ! So we might as well do something else with it... consequently PI_SD_SAVER also provides a single push button which allows convenient and safe power-offs and power-ups of the PI.   
+It might not look like an overkill to use a "meager" Attiny85 to correct a "mighty" Raspberry PI's flaw, but it is ! This little critter can do a lot more, like most of the things the Arduino does... same genes ! So we might as well do something else with it... consequently PI_SD_SAVER also provides a single push button which allows convenient and safe power-off(s) and power-on(s) of the PI.   
   
   
 Inspired by :<a href="https://github.com/NeonHorizon/lipopi"> lipopi</a> and  <a href="https://github.com/craic/pi_power"> pi_power</a>   
