@@ -25,7 +25,7 @@ many thanks !
 ### Requirements:  
   
 * a Raspberry Pi (any model - see notes about the Raspbery Pi 3)  
-* an Adafruit PowerBoost 1000C Charger  
+* an Adafruit PowerBoost 1000C Charger, <a href="https://learn.adafruit.com/adafruit-powerboost-1000c-load-share-usb-charge-boost/overview"> 1000C</a> 
 * a Lion battery, I'm using a 1000 mAh from Costco.
 * an Attiny85  
 * the arduino IDE with the Attiny85 library installed, see: <a href="http://highlowtech.org/?p=1695"> High-Low tech</a> or <a href="https://github.com/damellis/attiny"> Github-Damellis/attiny</a>  
