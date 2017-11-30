@@ -34,8 +34,10 @@ many thanks !
 * an arduino UNO or equivalent as a <a href="http://highlowtech.org/?p=1706">programmer</a>, Note: the arduino UNO as an ISP is by far the simplest  
 * a small breadboard, some resistors, diodes and leds, I'm blue ! The circuit is not critical and will work fine on a breadboard  
 * a small perf. single side <a href="https://makezine.com/2015/10/15/how-and-when-to-use-protoboard/">proto-board</a>, if you feel like soldering, get an 8 pins socket for the chip then. I use the friendlier <a href="https://www.digikey.com/product-detail/en/chip-quik-inc/SBB1605-1/SBB1605-1-ND/5978253"> three holes pads perf. board with bus traces</a>  
-* having fun ! 
- 
+* having fun !  
+  
+  
+ * * *
   
 
 
