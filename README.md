@@ -26,7 +26,7 @@ many thanks !
   
 * a Raspberry Pi (any model - see notes about the Raspbery Pi 3)  
 * an Adafruit PowerBoost <a href="https://learn.adafruit.com/adafruit-powerboost-1000c-load-share-usb-charge-boost/overview"> 1000C</a>  Charger
-* a Lion battery, I'm using a 1000 mAh from Costco.
+* a <a href="https://www.sparkfun.com/products/13813">Lion battery<a/>, I'm using a 1000 mAh from Costco.
 * an <a href="http://www.microchip.com/wwwproducts/en/ATtiny85">Attiny85</a>  
 * the arduino IDE with the Attiny85 library installed, see: <a href="http://highlowtech.org/?p=1695"> High-Low tech</a> or <a href="https://github.com/damellis/attiny"> Github-Damellis/attiny</a>  
 * an arduino UNO or equivalent as a programmer, see: <a href="http://highlowtech.org/?p=1706"> High-Low tech<a/> Note: the arduino UNO as an ISP is by far the simplest  
