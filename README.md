@@ -30,7 +30,7 @@ many thanks !
 * an <a href="http://www.microchip.com/wwwproducts/en/ATtiny85">Attiny85</a>  
 * the <a href="https://www.arduino.cc/en/Main/Software">arduino IDE<a/> with the <a href="http://highlowtech.org/?p=1695">Attiny85 library</a> installed, or see: <a href="https://github.com/damellis/attiny"> Github-Damellis/attiny</a>  
 * an arduino UNO or equivalent as a <a href="http://highlowtech.org/?p=1706">programmer</a>, Note: the arduino UNO as an ISP is by far the simplest  
-* a small protoboard, some resistors, diodes and leds, I'm blue ! The circuit is not critical and will work fine on a protoboard  
+* a small breadboard, some resistors, diodes and leds, I'm blue ! The circuit is not critical and will work fine on a breadboard  
 * a small perf. single side board, if you feel like soldering, get an 8 pins socket for the chip then. I use the friendlier <a href="https://www.digikey.com/product-detail/en/chip-quik-inc/SBB1605-1/SBB1605-1-ND/5978253"> three holes pads perf. board with bus traces</a>  
 * having fun ! 
  
