@@ -53,7 +53,9 @@ many thanks Guys !
     
   #### for the Attiny85  
    
-  1. copy <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/PI_SD_SAVER.ino">PI_SD_SAVER.ino</a> to your Arduino IDE  
+  1. copy <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/PI_SD_SAVER.ino">PI_SD_SAVER.ino</a> to your Arduino IDE and upload it to the Attiny85.  
+    
+ ***
     
     
   <a href="https://drive.google.com/open?id=1MdJcqJN3wX9J9RcA_ctVC03-aW2l8m06"> Video :-)</a>  
