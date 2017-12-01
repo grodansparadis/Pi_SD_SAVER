@@ -41,5 +41,6 @@ many thanks Guys !
   
 
 
-  ![Image of breadboard](https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/Pi_power_6_bb.png)
+  ![Image of breadboard](https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/Pi_power_6_bb.png)  
+  ![Image of breadboard](https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/Pi_power_6_schem.png)  
 
