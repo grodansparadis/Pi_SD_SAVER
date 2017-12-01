@@ -65,8 +65,8 @@ many thanks Guys !
   4. The best startup procedure goes like this:
      * connect your battery to the 1000C
      * connect the USB power cable to the PI
-     * plug in the USB wall adaptor power module
-     If everything goes according to the plan, no poufs no smokes, the status led should make 3 blinks every 2 seconds while waiting for the PI to start, the 1000C blue power led turns on, the PI starts, the header blue led will eventually turn on telling you Python is running and finally the status led will make one blink every 2 seconds... you deserve a beer !  
+     * plug in the USB wall adaptor power module.... hiiiiieeee !
+     If everything goes according to plan... no poufs no smokes, then the status led should make 3 blinks every 2 seconds while waiting for the PI to start, the 1000C blue power led turns on, the PI starts, the header blue led will eventually turn on telling you Python is running and finally the status led will make one blink every 2 seconds... you deserve a beer !  
      
      Cheer !
      
