@@ -38,8 +38,8 @@ many thanks Guys !
   
   
  * * *
-  <a href="https://drive.google.com/open?id=1MdJcqJN3wX9J9RcA_ctVC03-aW2l8m06"> Video :-)</a>
-
+  <a href="https://drive.google.com/open?id=1MdJcqJN3wX9J9RcA_ctVC03-aW2l8m06"> Video :-)</a>  
+  <a href="https://drive.google.com/open?id=1OdVWaV-CwrSooH2EpHe7RHeQzlnFLJwu"> Video2 </a>
 
   ![Image of breadboard](https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/Pi_power_6_bb.png)  
   ![Image of breadboard](https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/Pi_power_6_schem.png) 
