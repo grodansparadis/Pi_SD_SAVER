@@ -35,9 +35,11 @@ many thanks Guys !
 * a small breadboard, some resistors, diodes and leds, I'm blue ! The circuit is not critical and will work fine on a breadboard  
 * a small perf. single side <a href="https://makezine.com/2015/10/15/how-and-when-to-use-protoboard/">proto-board</a>, if you feel like soldering, get an 8 pins socket for the chip then. I use the friendlier <a href="https://www.digikey.com/product-detail/en/chip-quik-inc/SBB1605-1/SBB1605-1-ND/5978253"> three holes pads perf. board with bus traces</a>  
 * having fun !  
-  
+
   
  * * *
+  
+  Note about Raspberry Pi 3, in his readme <a href="https://github.com/NeonHorizon/lipopi"> lipopi</a> mentions that the PI3 uses the TX differently, I'm using Raspian Stretch and if in raspi-config you enable uart and disable console, the PI3 will use TX correctly for our project.
   <a href="https://drive.google.com/open?id=1MdJcqJN3wX9J9RcA_ctVC03-aW2l8m06"> Video :-)</a>  
   <a href="https://drive.google.com/open?id=1OdVWaV-CwrSooH2EpHe7RHeQzlnFLJwu"> Video2 </a>
 
