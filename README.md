@@ -59,14 +59,15 @@ many thanks Guys !
    
 ### Hardware setup  
   
-  1. use this <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/Pi_power_6_bb.png"breadboard</a> example
-  2. I found out that these <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/button%26led_bb.png">addons</a> were very helpfull to see what the PI is doing. Mount them on the PI header. This push button only allows a shutdown of the PI. The blue led tells you Python is running
+  1. use this <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/Pi_power_6_bb.png">breadboard</a> example
+  2. I found out that these <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/button%26led_bb.png">addons</a> were very helpfull to see what the PI is doing. Mount them on the PI header. This push button only allows a shutdown of the PI. The blue led tells you Python is running.
   3. You can install a 100 kΩ resistor between the Attiny85 reset pin 1 to Vcc
   4. The best startup procedure goes like this:
      * connect your battery to the 1000C
      * connect the USB power cable to the PI
      * plug in the USB wall adaptor power module
-     The status led should make 3 blinks, the 1000C blue led turns on, the PI starts, the header blue led will turn on telling you Python is running and finally the status led will make one blink every 2 seconds 
+     If everything goes according to the plan, the status led should make 3 blinks every 2 seconds while waiting for the PI to start, the 1000C blue power led turns on, the PI starts, the header blue led will eventually turn on telling you Python is running and finally the status led will make one blink every 2 seconds... you deserve a beer !
+     
        
     
 
