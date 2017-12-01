@@ -53,13 +53,22 @@ many thanks Guys !
     
   #### for the Attiny85  
    
-  1. copy <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/PI_SD_SAVER.ino">PI_SD_SAVER.ino</a> to your Arduino IDE and upload it to the Attiny85.  
+  1. copy <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/PI_SD_SAVER.ino">PI_SD_SAVER.ino</a> to your Arduino IDE and upload it to the Attiny85 using your favorite programmer.  
     
- ***
+ ***  
+   
+### Hardware setup  
+  
+  1. use this <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/Pi_power_6_bb.png"breadboard</a> example
+  2. I found out that these <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/button%26led_bb.png">addons</a> were very helpfull to see what the PI is doing. Mount them on the PI header. This push button only allows a shutdown of the PI. The blue led tells you Python is running
+  3. You can install a 100 kΩ resistor between the Attiny85 reset pin 1 to Vcc
+  4. The best startup procedure goes like this:
+     * connect your battery to the 1000C
+     * connect the USB power cable to the PI
+     * plug in the USB wall adaptor power module
+     The status led should make 3 blinks, the 1000C blue led turns on, the PI starts, the header blue led will turn on telling you Python is running and finally the status led will make one blink every 2 seconds 
+       
     
-    
-  <a href="https://drive.google.com/open?id=1MdJcqJN3wX9J9RcA_ctVC03-aW2l8m06"> Video :-)</a>  
-  <a href="https://drive.google.com/open?id=1OdVWaV-CwrSooH2EpHe7RHeQzlnFLJwu"> Video2 </a>
 
   ![Image of breadboard](https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/Pi_power_6_bb.png)  
   ![Image of breadboard](https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/Pi_power_6_schem.png) 
