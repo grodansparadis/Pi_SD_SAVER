@@ -39,7 +39,10 @@ many thanks Guys !
   
  * * *
   
-  Note about Raspberry Pi 3, in his readme <a href="https://github.com/NeonHorizon/lipopi"> lipopi</a> mentions that the PI3 uses the TX differently, I'm using Raspian Stretch and if in raspi-config you enable uart and disable console, the PI3 will use TX correctly for our project.
+  ### Note about Raspberry Pi 3:  
+  
+  in his readme <a href="https://github.com/NeonHorizon/lipopi"> lipopi</a> mentions that the PI3 uses the TX differently, I'm using Raspian Stretch and if in raspi-config you enable uart and disable console, the PI3 will use TX correctly for our project.  
+  
   <a href="https://drive.google.com/open?id=1MdJcqJN3wX9J9RcA_ctVC03-aW2l8m06"> Video :-)</a>  
   <a href="https://drive.google.com/open?id=1OdVWaV-CwrSooH2EpHe7RHeQzlnFLJwu"> Video2 </a>
 
