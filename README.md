@@ -48,7 +48,9 @@ many thanks Guys !
   
   1. run `sudo raspi-config` select `Interfacing Options`then `Serial` set `login shell to No` and `serial port to Yes`
   2. copy <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/blink.py">blink.py</a> in your PI home directory
-  3. 
+  3. in the terminal type `crontab -e` and chose you favorite editor and add this line `@reboot python /home/pi/blink.py &` at the end, check that <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/blink.py">blink.py</a> is executable  
+  4.
+  
   <a href="https://drive.google.com/open?id=1MdJcqJN3wX9J9RcA_ctVC03-aW2l8m06"> Video :-)</a>  
   <a href="https://drive.google.com/open?id=1OdVWaV-CwrSooH2EpHe7RHeQzlnFLJwu"> Video2 </a>
 
