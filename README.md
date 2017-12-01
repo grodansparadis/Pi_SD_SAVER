@@ -53,7 +53,8 @@ many thanks Guys !
     
   #### for the Attiny85  
    
-  1. copy <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/PI_SD_SAVER.ino">PI_SD_SAVER.ino</a> to your Arduino IDE and upload it to the Attiny85 using your favorite programmer.  
+  1. in the Arduino IDE Tools tab, choose `Processor Attiny85` and `Clock Internal 8 MHz` and do a `Burn Bootloader` 
+  2. copy <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/PI_SD_SAVER.ino">PI_SD_SAVER.ino</a> to your Arduino IDE and upload it to the Attiny85 using your favorite programmer.  
     
  ***  
    
