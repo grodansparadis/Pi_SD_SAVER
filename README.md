@@ -42,7 +42,13 @@ many thanks Guys !
   ##### Note about Raspberry Pi 3:  
   
   in his readme <a href="https://github.com/NeonHorizon/lipopi"> lipopi</a> mentions that the PI3 uses the TX differently, I'm using Raspian Stretch and if in raspi-config you enable uart and disable console, the PI3 will use TX correctly for our project.  
+    
+### Software 
+#### for the PI with Raspbian Stretch  
   
+  1. run `sudo raspi-config` select `Interfacing Options`then `Serial` set `login shell to No` and `serial port to Yes`
+  2. copy <a href="https://github.com/jeanrocco/Pi_SD_SAVER/blob/master/blink.py">blink.py</a> in your PI home directory
+  3. 
   <a href="https://drive.google.com/open?id=1MdJcqJN3wX9J9RcA_ctVC03-aW2l8m06"> Video :-)</a>  
   <a href="https://drive.google.com/open?id=1OdVWaV-CwrSooH2EpHe7RHeQzlnFLJwu"> Video2 </a>
 
